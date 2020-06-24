@@ -1,2 +1,2 @@
 # Middleware
-This is a the middleware repository for .Net
+This is the middleware repository for .Net
