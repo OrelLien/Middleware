@@ -9,13 +9,13 @@ namespace ControlleursWorkflow
     class Authentificate
     {
 
-        private CAD cad;
+       /* private CAD cad;
         private MSG msg;
         private CMPGE sql;
         public void Authentify(MSG msg)
         {
 
         }
-
+        */
     }
 }

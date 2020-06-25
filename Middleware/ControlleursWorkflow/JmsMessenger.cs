@@ -14,10 +14,10 @@ namespace ControlleursWorkflow
         private string cfName;
         private string queueName;
         private string topicName;
-        private MSG msg;
+       /* private MSG msg;
         public void SendToQueue(MSG msg)
         {
 
-        }
+        }*/
     }
 }
