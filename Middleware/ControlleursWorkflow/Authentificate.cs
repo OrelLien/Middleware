@@ -12,7 +12,7 @@ namespace ControlleursWorkflow
         private CAD cad;
         private MSG msg;
         private CMPGE sql;
-        public void Authentify(msg:MSG)
+        public void Authentify(MSG msg)
         {
 
         }

@@ -15,7 +15,7 @@ namespace ControlleursWorkflow
         private string queueName;
         private string topicName;
         private MSG msg;
-        public void SendToQueue(msg:MSG)
+        public void SendToQueue(MSG msg)
         {
 
         }

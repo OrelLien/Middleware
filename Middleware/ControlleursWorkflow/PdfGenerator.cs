@@ -10,7 +10,7 @@ namespace ControlleursWorkflow
     {
 
         private MSG msg;
-        public void GeneratePdf(msg:MSG)
+        public void GeneratePdf(MSG msg)
         {
 
         }

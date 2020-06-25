@@ -11,7 +11,7 @@ namespace ControlleursWorkflow
 
         private MSG msg;
 
-        public void Decrypt(msg:MSG)
+        public void Decrypt(MSG msg)
         {
 
         }
