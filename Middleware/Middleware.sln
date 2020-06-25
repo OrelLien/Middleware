@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware", "Middleware\Middleware.csproj", "{9C017AA3-D417-47A4-91D0-43057FA04EA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlleursWorkflow", "ControlleursWorkflow\ControlleursWorkflow.csproj", "{0E556413-CA11-44F8-A194-15524CD66F2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C017AA3-D417-47A4-91D0-43057FA04EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C017AA3-D417-47A4-91D0-43057FA04EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C017AA3-D417-47A4-91D0-43057FA04EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E556413-CA11-44F8-A194-15524CD66F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E556413-CA11-44F8-A194-15524CD66F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E556413-CA11-44F8-A194-15524CD66F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E556413-CA11-44F8-A194-15524CD66F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
