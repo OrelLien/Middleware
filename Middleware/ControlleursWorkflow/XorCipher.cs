@@ -8,5 +8,12 @@ namespace ControlleursWorkflow
 {
     class XorCipher
     {
+
+        private MSG msg;
+
+        public void Decrypt(msg:MSG)
+        {
+
+        }
     }
 }

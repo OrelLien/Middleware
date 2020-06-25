@@ -8,5 +8,11 @@ namespace ControlleursWorkflow
 {
     class PdfGenerator
     {
+
+        private MSG msg;
+        public void GeneratePdf(msg:MSG)
+        {
+
+        }
     }
 }
