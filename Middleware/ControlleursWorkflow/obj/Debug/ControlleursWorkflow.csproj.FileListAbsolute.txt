@@ -4,3 +4,5 @@ D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWork
 D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.csprojResolveAssemblyReference.cache
 D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.exe
 D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.pdb
+D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWorkflow\bin\Debug\itextsharp.dll
+D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWorkflow\bin\Debug\itextsharp.xml

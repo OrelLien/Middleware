@@ -11,8 +11,8 @@ namespace ControlleursWorkflow
 
        /* private MSG msg;*/
         private string key;
+        private static string msg = "Ce texte est le texte décrypté. Bravo à vous";
 
-        
 
         static void Main(String[] args)
         {
@@ -23,6 +23,7 @@ namespace ControlleursWorkflow
            Console.WriteLine(EncryptDecrypt(encryptedText, EncryptionKey));
            Console.WriteLine(EncryptDecrypt(PlainText, EncryptionKey));
            Console.ReadLine();
+           PdfGenerator.GeneratePdf(msg);
         }
 
 
