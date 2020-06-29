@@ -6,3 +6,13 @@ D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWork
 D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.pdb
 D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWorkflow\bin\Debug\itextsharp.dll
 D:\Documents\A4 Exia\UE3\Projet Dominante\middleware\Middleware\ControlleursWorkflow\bin\Debug\itextsharp.xml
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\bin\Debug\ControlleursWorkflow.exe.config
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\bin\Debug\ControlleursWorkflow.exe
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\bin\Debug\ControlleursWorkflow.pdb
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\bin\Debug\itextsharp.dll
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\bin\Debug\itextsharp.xml
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.csprojAssemblyReference.cache
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.csproj.CoreCompileInputs.cache
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.csproj.CopyComplete
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.exe
+C:\dev\ProjectC#\Middleware\Middleware\ControlleursWorkflow\obj\Debug\ControlleursWorkflow.pdb

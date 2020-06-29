@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30204.135
+VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlleursWorkflow", "ControlleursWorkflow\ControlleursWorkflow.csproj", "{0E556413-CA11-44F8-A194-15524CD66F2D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominanteClient", "DominanteClient\DominanteClient.csproj", "{B12A1924-AEB6-40D1-B944-FCC35C21C658}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominanteClient", "DominanteClient.csproj", "{B12A1924-AEB6-40D1-B944-FCC35C21C658}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0E556413-CA11-44F8-A194-15524CD66F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E556413-CA11-44F8-A194-15524CD66F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E556413-CA11-44F8-A194-15524CD66F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E556413-CA11-44F8-A194-15524CD66F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B12A1924-AEB6-40D1-B944-FCC35C21C658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B12A1924-AEB6-40D1-B944-FCC35C21C658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B12A1924-AEB6-40D1-B944-FCC35C21C658}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6F0891B3-C93E-4AB8-8ABB-9429ADA17B12}
+		SolutionGuid = {50A7BB19-3B36-4B12-9F40-074DB0636DB1}
 	EndGlobalSection
 EndGlobal
